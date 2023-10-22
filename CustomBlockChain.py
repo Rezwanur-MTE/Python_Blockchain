@@ -37,4 +37,5 @@ bc.add_block('Jaoyad has no money')
 for block in bc.chain: 
     print(block.__dict__)
         
+        #testing
         
